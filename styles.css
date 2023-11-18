@@ -1,0 +1,38 @@
+.green_background{
+    background-color: #CAEF46;
+}
+.background_part1{
+    background-image: url(./assets/back_part1.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: 0;
+    background-size: contain;
+}
+.background_subpart2{
+    background-image: url(./assets/subpart2.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: 0;
+    background-size: contain;
+}
+.background_part2{
+    background-image: url(./assets/back_part2.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: 0;
+    background-size: cover;
+}
+.background_part4{
+    background-image: url(./assets/bak_part4.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: 0;
+    background-size: cover;
+}
+.background_part5{
+    background-image: url(./assets/back_part5.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: 0;
+    background-size: cover;
+}
